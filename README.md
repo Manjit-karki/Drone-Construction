@@ -1,15 +1,60 @@
-# Drone
+<p align="center">
+<a  href="https://gces.edu.np/" ><img src="https://wms.edigitalnepal.com/wms/files/ws-profile/1689052851492_cf7a098a-b884-40d8-a7bc-e020064069c6.png"></a>
+<br>
+Drone control system - An Embedded system project  </p>
 
-This is a repository dedicated to the building of a drone from scratch using a multitude of parts as well as a drone kit to help maintain compatability between parts.
+---
+## What is a drone control system?
 
-#Hardware Used:
+A drone control system is a complex embedded system that integrates various components, including sensors, actuators, processing units, and control algorithms. The primary function of a drone control system is to control the drone's movements, stabilize its flight, and navigate through the environment.
 
-NOTE: '()' for price, '{}' for quantity, and '[]' for status
+## Why is it necessary?
 
-+Drone Kit (Rs. 30,000 - 40,000) {1} [Pending]
+Drone control systems are essential for the operation of unmanned aerial vehicles or UAVs for short. They ensure stability, maneuverability, and adherence to programmed flight paths. 
 
-+Raspberry Pi Zero 2 W (Rs. 5,000) {1} [Pending]
+---
 
-+Raspberry Pi 3 Model B+ Camera Module 1080p (Rs. 900) {1} [Pending]
+## Applications of Drone Control System
 
-+Raspberry Pi Zero Camera Cable (Rs. 790) {1} [Pending]
+Drone control systems have a wide range of applications across various industries, including:
+
+- Aerial photography and videography
+- Surveillance and monitoring
+- Package delivery and logistics
+- Inspection and maintenance
+- Agricultural monitoring and crop management
+- Search and rescue operations
+
+---
+
+## Design Considerations for Drone Control Systems
+
+Designing of a drone control system requires several key considerations such as:
+
+- Stability and Control
+- Efficiency and Power consumption
+- Scalability and Flexibility
+
+## Implementation Strategies for Drone Control Systems
+
+Implementing a drone control system requires careful planning and execution to ensure stable flight and functioning sensors. The following strategies can help ensure a successful implementation:
+
+- Hardware and Software Integration
+- Sensor Calibrating and Tuning
+- Control Algorithm Development and Optimization
+
+---
+
+## Mathematical Modeling of Drone Dynamics
+
+
+
+
+
+
+---
+### References
+
+- <a href="https://www.mdpi.com/1424-8220/20/11/3134">BOLD</a> : Bio-Inspired Optimized Leader Election for Multiple Drones - a survey
+- <a href="https://github.com/lobodol/drone-flight-controller">Git</a> : Drone Flight Controller - GitHub repository
+
